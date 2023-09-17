@@ -1,0 +1,54 @@
+.fondo-item {
+  background-color:#c7bd93;
+  height: 140px;
+  border-radius: 20px;
+  margin-top: 15px;
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  color: white;
+
+}
+.btn-color {
+  margin-top: 10px;
+  width: 100%;
+  background-color:#7b7066;
+  height: 50px;
+  border-color: #7b7066;
+}
+.btn-color:hover{
+  background-color:#577642;
+  border-color: #577642;
+}
+
+.sexo{
+  font-size: 40px;
+}
+.estilo-numero{
+  font-size: 32px;
+  font-weight: 800;
+  margin-top: -20px;
+}
+.cm{
+  font-size: 16px;
+  font-weight:400 ;
+  margin-left: 10px;
+}
+.form-range{
+  margin-top: -20px;
+}
+
+
+.sumaResta{
+  cursor:pointer;
+  background-color: #bad3c6;
+  border-radius: 15px;
+  padding: 7px;
+  margin-left: 3px;
+}
+.sexoDesactivo{
+  background-color:dimgrey;
+  border-radius: 20px;
+}
+.form-range::-webkit-slider-thumb{
+  background:#577642;
+}
